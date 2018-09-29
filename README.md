@@ -6,7 +6,7 @@
 
 ## 演示网站
 
-我的课程资料中心 [https://rbs.alumik.cn/](https://course.alumik.cn/)
+我的课程资料中心 [https://course.alumik.cn/](https://course.alumik.cn/)
 
 ## 说明
 
