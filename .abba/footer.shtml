@@ -4,7 +4,13 @@
     </div>
     <footer class="footer">
         <div class="container">
-            <p class="text-center">©  2018 AlumiK.</p>
+            <p class="text-center">
+                © 2018 AlumiK
+                <br>
+                网站基于
+                <a href="https://abba.jml.bzh"> ABBA </a>
+                二次开发
+            </p>
         </div>
     </footer>
     <script src="/.abba/js/script.min.js"></script>
