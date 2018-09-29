@@ -7,7 +7,7 @@
             <p class="text-center">©  2018 AlumiK.</p>
         </div>
     </footer>
-    <script src="/.abba/js/script.js"></script>
+    <script src="/.abba/js/script.min.js"></script>
     <script src="/.abba/js/bootstrap.min.js"></script>
 </body>
 
