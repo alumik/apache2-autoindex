@@ -1,6 +1,12 @@
+                </div>
             </div>
+        </main>
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-center">©  2018 AlumiK.</p>
         </div>
-    </main>
+    </footer>
     <script src="/.abba/js/script.js"></script>
     <script src="/.abba/js/bootstrap.min.js"></script>
 </body>
