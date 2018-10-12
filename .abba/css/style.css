@@ -7821,10 +7821,15 @@ a.list-group-item-danger.active:focus {
 }
 
 .footer {
-    height: 81px;
+    height: 65px;
     background-color: #f5f5f5;
     border-top: 1px solid #ddd;
     padding-top: 20px;
+}
+
+.footer p {
+    margin: 0;
+    line-height: 25px;
 }
 
 html, body {
@@ -7834,8 +7839,8 @@ html, body {
 .wrap {
     min-height: 100%;
     height: auto;
-    margin: 0 auto -81px;
-    padding: 0 0 81px;
+    margin: 0 auto -65px;
+    padding: 0 0 65px;
 }
 
 .table-responsive {

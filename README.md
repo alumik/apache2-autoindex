@@ -12,4 +12,4 @@
 
 本项目基于 Apache2 的自动目录索引功能，因此需要使用 Apache2 托管本网站。
 
-另外还需要加载 `mod_include` ，并将 *.abba/css/style.css* 压缩为 *.abba/css/style.min.css* 。
+另外还需要加载 `mod_include` 。
