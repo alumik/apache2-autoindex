@@ -8,7 +8,7 @@
 
 另外还需要加载 `mod_include` 。
 
-参考网站配置文件
+参考配置文件
 
 ```apache2
 <VirtualHost *:80>
