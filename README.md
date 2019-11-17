@@ -10,7 +10,7 @@
 
 参考配置文件
 
-```apache2
+```apache
 <VirtualHost *:80>
     ServerAdmin webmaster@localhost
     DocumentRoot /example-path/apache-autoindex
